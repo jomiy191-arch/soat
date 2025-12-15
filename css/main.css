@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  min-height: 100vh;    
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../images/uzbek.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  color: #fff;
+}
+
+
+.title {
+  color: #fff;
+  margin-bottom: 20px;
+  font-size: 32px;
+}
+
+.clock {
+  background: linear-gradient(135deg, #c54721, #3f0a85);
+  color: #00ffcc;
+  padding: 25px 45px;
+  border-radius: 15px;
+  font-size: 48px;
+  letter-spacing: 4px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+}
