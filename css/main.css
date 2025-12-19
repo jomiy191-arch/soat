@@ -15,7 +15,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-
+  
   color: #fff;
 }
 
@@ -28,10 +28,11 @@ body {
 
 .clock {
   background: linear-gradient(135deg, #c54721, #3f0a85);
-  color: #00ffcc;
+  color: #ffffff;
   padding: 25px 45px;
   border-radius: 15px;
   font-size: 48px;
   letter-spacing: 4px;
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
 }
+
